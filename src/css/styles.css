@@ -2,8 +2,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
   background-color: lightgray;
-  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/41294/hero.jpg)
-    no-repeat center center fixed;
+  background: rgb(250, 247, 247);
   background-size: cover;
 }
 
