@@ -40,7 +40,7 @@ const options = {
   };
   
   const MESSAGES_BG_COLORS = {
-    blue: '#abd4f8',
+    blue: '#000000',
     orange: '#f28111',
     red: '#e97782',
   };
